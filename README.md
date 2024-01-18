@@ -7,4 +7,4 @@ In this internship, I proficiently applied Excel and Power BI for data analysis 
 3. Cleaning and Visualization of Airbnb statistics for NYC
 ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNGQ1OTkzMjktODU0Zi00MmE3LTkzOTQtOTViOWRmMjNkMzQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 5. Wine Quality Prediction
-Dashboard Link: 
+### Dashboard Link: 
