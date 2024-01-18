@@ -1,7 +1,7 @@
 # OIBSIP
-In this internship, I proficiently applied Excel and Power BI for data analysis and visualization, completing three projects. These experiences sharpened data analysis and problem-solving skills, offering practical exposure to real-world scenarios.
+In this internship, I proficiently applied Excel and Power BI skills for data analysis and visualization, completing three projects. These experiences sharpened data analysis and problem-solving skills, offering practical exposure to real-world scenarios.
 
-## It includes 3 projects, namely,
+## I completed 3 projects, namely,
 1. Exploratory Data Analysis (EDA) of Retail Sales Data
 ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiODM1OTJlMTgtODM2MC00ZTE5LWFhZjAtM2QzOGQxMjgzNjZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 3. Cleaning and Visualization of Airbnb statistics for NYC
