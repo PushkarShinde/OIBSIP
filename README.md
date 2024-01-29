@@ -15,4 +15,5 @@ In this internship, I proficiently applied Excel and Power BI skills for data an
 ### 3. Wine Quality Prediction
 - Analyzed the quality of red variants of Portuguese "Vinho Verde" wine by assessing the impact of more than 5 chemicals.
 - Addressed the challenge posed by limited sample size, constructing a predictive model that reduced data complexity by 60%.
-#### Dashboard Link: 
+#### Dataset Link: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+#### Google Colab:  https://colab.research.google.com/drive/1ojDxDoS8hDVOoGyoQXtAdCkfClZ-Ag5b#scrollTo=PnqCm0c6kimt
